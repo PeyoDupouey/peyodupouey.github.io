@@ -1,0 +1,91 @@
+# Peyo Dupouey
+
+> En 3e année du Bachelor de Technologie Arts et Métiers à Bordeaux-Talence, je cherche une alternance en cycle ingénieur en conception mécanique dès septembre 2027. CATIA V5, 3DEXPERIENCE, MATLAB ; 16 semaines en entreprise, dont 12 chez Ligier Automotive. Mobile partout en France.
+
+Portfolio : https://peyodupouey.github.io/ · LinkedIn : https://www.linkedin.com/in/peyo-dupouey-88a77b2a1 · E-mail : peyo.dupouey@ensam.eu · Mis à jour le 2026-10-10
+
+## Profil
+
+Étudiant en 3e année de Bachelor de Technologie (Arts et Métiers, Bordeaux-Talence, grade licence, mécanique-production), major de promotion en 1re année. Parcours : 1re année de BUT Informatique, puis réorientation vers l'industrie.
+Logiciels : CATIA V5, 3DEXPERIENCE, Fusion 360, MATLAB, Excel, Arduino.
+- Stage technicien, bureau d'études de Ligier Automotive (constructeur de véhicules de compétition), avril-juillet 2026 : migration de plus de 17 000 fichiers CAO et de 7 véhicules complets de CATIA V5 vers 3DEXPERIENCE, avec un guide des erreurs ; conception sur CATIA V5 d'un outillage de contrôle réglementaire (cotes 1100 mm +0/-100 et 200 mm max) de la V1 à la V3, mises en plan, fabrication et essais, utilisé par les équipes aux 24 Heures du Mans ; outil Excel de dimensionnement de barres de torsion (couple, raideur, diamètres, cisaillement, masse).
+- Stage exécutant, Le Garage Moderne (association, Bordeaux), février 2025 : 7 tables en bois de récupération et 3 abris pour frigos solidaires conçus sur CATIA V5 et fabriqués en binôme (mi-bois, toit à 10°), 1 800 € dépensés sur un budget de 15 000 €.
+- Robot suiveur de ligne en équipe de 3 (Toulouse Robot Race) : CAO, impression 3D, capteurs, programmation Arduino, tests itératifs, participation à la compétition.
+- Outil d'analyse de télémétrie sous MATLAB, en autonomie : recalage de tours sur la distance, KPI, graphiques comparatifs ; publication partagée par le responsable dynamique véhicule de McLaren Racing.
+- Caisse à savon biplace en équipe de 4 (2025-2026), objectif individuel : la direction complète. Cahier des charges, Gantt, conception CATIA V5, fabrication en tournage, fraisage, pliage, jet d'eau et soudure, essais ; 4 h par semaine.
+- Ruche connectée en équipe de 5 (Arduino Mega). Ma partie : intégration web, serveur Arduino avec shield Ethernet, données en XML, page actualisée en temps réel. Reste de l'équipe : comptage des abeilles par fourches optiques, pesée du miel par capteur de force étalonné, écran tactile, GPS, serveur web (Ethernet, XML), alerte SMS (GSM, accéléromètre).
+- Mini soufflerie (Arduino, maquettes 1:43).
+- Vice-président du bureau des élèves : course d'orientation à l'échelle d'une ville pour plus de 50 étudiants. Commissaire de piste FFSA, chauffeur VIP pour Ferrari aux 24 Heures du Mans, voyage seul en Norvège (ferme isolée), marathon de Séville 2026.
+Recommandations : « fiabilité, esprit d'initiative » (Florent Gouin, Workflo Engineering) ; « rôle moteur dans les travaux d'équipe » (Carine Vignes, professeure agrégée).
+
+## Compétences
+
+| Compétence | Mise en pratique | Projets associés | Résultat |
+| --- | --- | --- | --- |
+| CAO : CATIA V5, Fusion 360 | En entreprise et en projet | Ligier, Garage Moderne, robot, caisse à savon | Outillage de contrôle mené de la V1 à la V3, utilisé aux 24 Heures du Mans |
+| PLM : 3DEXPERIENCE | En entreprise | Ligier Automotive | Plus de 17 000 fichiers et 7 véhicules complets migrés depuis CATIA V5 |
+| Dimensionnement et RDM | En entreprise et en projet | Barres de torsion Ligier, direction de caisse à savon | Outil Excel de dimensionnement de barres de torsion |
+| Analyse de données : MATLAB | En projet personnel | Outil de télémétrie | Publication partagée par le responsable de la dynamique véhicule de McLaren Racing |
+| Fabrication : tournage, fraisage, soudure, bois | En atelier | Garage Moderne, caisse à savon | 10 ouvrages en bois en un mois ; une direction fonctionnelle |
+| Électronique embarquée : Arduino, capteurs | En projet | Robot suiveur de ligne, ruche connectée | Robot engagé à la Toulouse Robot Race |
+| Intégration web et IoT : HTML, XML, Ethernet | En projet | Ruche connectée | Page actualisée en temps réel par un serveur Arduino |
+| Gestion de projet : Gantt, COPIL, budget | En projet et en association | Caisse à savon, Garage Moderne, bureau des élèves | 1 800 € dépensés sur 15 000 € ; course d'orientation pour plus de 50 étudiants |
+
+## Projets (problème → solution → résultat)
+
+- **Ligier Automotive** (Stage technicien · 2026) : Un bureau d'études à migrer vers le cloud, un contrôle réglementaire à outiller, des barres de torsion à dimensionner. → Migration CATIA V5 vers 3DEXPERIENCE, outillage conçu sous CATIA V5, outil de calcul sous Excel. → Plus de 17 000 fichiers et 7 véhicules migrés ; un outillage en V3 utilisé aux 24 Heures du Mans.
+- **Le Garage Moderne** (Stage exécutant · 2025) : Une association sans mobilier pour sa cantine ni abri pour ses frigos solidaires. → Tables en bois de récupération et abris conçus sous CATIA V5, fabriqués en binôme. → 7 tables et 3 abris en un mois, 1 800 € dépensés sur un budget de 15 000 €.
+- **Caisse à savon** (Projet d'école · 2025-2026) : Un châssis de caisse à savon biplace sans direction. → Direction de type karting conçue sous CATIA V5, pièces usinées et soudées moi-même. → Une direction fonctionnelle et fiable, avec 4 heures par semaine.
+- **Robot autonome** (Projet d'équipe · 2024-2025) : Un robot doit suivre une ligne seul, le plus vite possible. → Conception CAO, impression 3D, capteurs et programmation Arduino, tests itératifs. → Un tour de piste complet en essais et une participation à la Toulouse Robot Race.
+- **Analyse de télémétrie** (Projet personnel · 2025) : Des données de course brutes, sans outil pour les comparer. → Outil MATLAB qui recale deux tours sur la distance et calcule des indicateurs. → Comparaison de tours, delta de temps et KPI ; publication partagée par McLaren Racing.
+- **Ruche connectée** (Projet d'équipe · IoT) : Suivre la santé d'une ruche sans l'ouvrir. → Ma partie : un serveur web sur Arduino qui publie les mesures en XML. → Une page qui affiche en temps réel abeilles, masse de miel, climat et position GPS.
+
+## Questions fréquentes
+
+### Que recherche Peyo Dupouey ?
+
+Une alternance en cycle ingénieur, en conception mécanique, bureau d'études ou R&D, à partir de septembre 2027. Il est mobile dans toute la France.
+
+### Quelle est sa formation ?
+
+Il est en 3e année du Bachelor de Technologie des Arts et Métiers, campus de Bordeaux-Talence : diplôme accrédité par la CTI, grade licence, spécialité mécanique-production. Il a été major de promotion en 1re année, après une 1re année de BUT Informatique.
+
+### Quelle expérience a-t-il en entreprise ?
+
+16 semaines : 12 au bureau d'études de Ligier Automotive en 2026 (migration vers 3DEXPERIENCE, outillage de contrôle réglementaire, dimensionnement de barres de torsion) et 4 au Garage Moderne en 2025 (conception et fabrication de mobilier et d'abris).
+
+### Quels logiciels utilise-t-il ?
+
+CATIA V5 et 3DEXPERIENCE en entreprise, Fusion 360, MATLAB, Excel et Arduino en projet.
+
+### Quels sont ses projets les plus marquants ?
+
+Un outillage de contrôle utilisé aux 24 Heures du Mans, un outil d'analyse de télémétrie sous MATLAB partagé par McLaren Racing, la direction d'une caisse à savon, un robot suiveur de ligne et le site web temps réel d'une ruche connectée.
+
+### Parle-t-il anglais ?
+
+Oui. Ce portfolio est bilingue, et il a travaillé plusieurs semaines en anglais dans une ferme en Norvège.
+
+### Qui peut le recommander ?
+
+Florent Gouin (Workflo Engineering) et Carine Vignes, professeure agrégée. Leurs lettres complètes sont disponibles sur demande.
+
+### Comment le contacter ?
+
+Par e-mail à peyo.dupouey@ensam.eu, par téléphone au +33 7 68 15 74 06, ou sur LinkedIn.
+
+## English summary
+
+Third-year Bachelor of Technology student at Arts et Métiers, Bordeaux-Talence, looking for a mechanical design engineering work-study (apprenticeship) from September 2027. CATIA V5, 3DEXPERIENCE, MATLAB; 16 weeks in industry, 12 of them at Ligier Automotive. Open to anywhere in France.
+
+Third-year Bachelor of Technology student (Arts et Métiers, Bordeaux-Talence, bachelor-level degree in mechanical engineering and production), top of his class in year 1. Background: one year of a computer science diploma, then a switch to industry.
+Software: CATIA V5, 3DEXPERIENCE, Fusion 360, MATLAB, Excel, Arduino.
+- Technician internship, design office of Ligier Automotive (racing vehicle manufacturer), April-July 2026: migrated over 17,000 CAD files and 7 complete vehicles from CATIA V5 to 3DEXPERIENCE, with an error guide; designed a regulatory inspection tool in CATIA V5 (1100 mm +0/-100 and 200 mm max) from V1 to V3, drawings, manufacturing and testing, used by teams at the 24 Hours of Le Mans; Excel tool sizing torsion bars (torque, stiffness, diameters, shear stress, mass).
+- Work placement, Le Garage Moderne (association, Bordeaux), February 2025: 7 tables from reclaimed wood and 3 community-fridge shelters designed in CATIA V5 and built in a pair (half-lap joints, 10° roof), €1,800 spent out of a €15,000 budget.
+- Line-following robot in a team of 3 (Toulouse Robot Race): CAD, 3D printing, sensors, Arduino programming, iterative testing, took part in the competition.
+- Self-directed MATLAB telemetry analysis tool: lap alignment on distance, KPIs, comparison plots; post shared by McLaren Racing's head of vehicle dynamics.
+- Two-seat soapbox car in a team of 4 (2025-2026), individual goal: the complete steering. Specification, Gantt chart, CATIA V5 design, manufacturing by turning, milling, bending, waterjet and welding, testing; 4 h a week.
+- Connected beehive in a team of 5 (Arduino Mega). My part: web integration, Arduino server with an Ethernet shield, XML data, page updated in real time. Rest of the team: bee counting with optical forks, honey weighing with a calibrated load cell, touchscreen, GPS, web server (Ethernet, XML), SMS alert (GSM, accelerometer).
+- Mini wind tunnel (Arduino, 1:43 models).
+- Student union vice-president: city-wide orienteering race for 50+ students. FFSA track marshal, VIP driver for Ferrari at the 24 Hours of Le Mans, solo trip to Norway (remote farm), 2026 Seville marathon.
+Recommendations: "reliability, initiative" (Florent Gouin, Workflo Engineering); "drives team projects forward" (Carine Vignes, senior lecturer).
